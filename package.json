@@ -1,0 +1,24 @@
+{
+  "name": "setupdev",
+  "version": "1.0.0",
+  "description": "course from PluralSight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlimaVIP/setUpDev.git"
+  },
+  "author": "ilima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlimaVIP/setUpDev/issues"
+  },
+  "homepage": "https://github.com/IlimaVIP/setUpDev#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^6.0.0",
+    "open": "0.0.5"
+  }
+}
